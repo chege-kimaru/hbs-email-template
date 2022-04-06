@@ -1,1 +1,1 @@
-# hbs-email-template
+## Email Template with Handlebars
